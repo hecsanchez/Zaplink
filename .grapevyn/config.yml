@@ -12,6 +12,6 @@ pages:
     isHome: true
     url: /
   - id: fpgiw8gpi
-    name: New Page
-    url: /new-page
+    name: Features
+    url: /features
     isHome: false
