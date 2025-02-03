@@ -16,6 +16,6 @@ pages:
     url: /features
     isHome: false
   - id: tatjxsasc
-    name: New Page
-    url: /new-page
+    name: Contact
+    url: /contact
     isHome: false
