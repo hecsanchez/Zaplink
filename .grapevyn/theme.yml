@@ -1,0 +1,17 @@
+
+colors:
+  primary: "#3B82F6"
+  secondary: "#10B981"
+  background: "#FFFFFF"
+  text: "#1F2937"
+fonts:
+  heading: Satoshi
+  body: Satoshi
+spacing:
+  container: "1280px"
+  padding: "1rem"
+breakpoints:
+  sm: "640px"
+  md: "768px"
+  lg: "1024px"
+  xl: "1280px"
