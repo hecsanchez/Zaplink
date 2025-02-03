@@ -11,10 +11,6 @@ pages:
     path: /
     isHome: true
     url: /
-  - id: fpgiw8gpi
-    name: Features
-    url: /features
-    isHome: false
   - id: tatjxsasc
     name: Contact
     url: /contact
