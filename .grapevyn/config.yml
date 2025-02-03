@@ -11,7 +11,3 @@ pages:
     path: /
     isHome: true
     url: /
-  - id: tgggr5z3v
-    name: New Page
-    url: /new-page
-    isHome: false
