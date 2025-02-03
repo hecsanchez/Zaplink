@@ -11,7 +11,3 @@ pages:
     path: /
     isHome: true
     url: /
-  - id: 4823w6jdn
-    name: Features
-    url: /features
-    isHome: false
