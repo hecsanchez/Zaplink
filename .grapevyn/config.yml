@@ -12,6 +12,6 @@ pages:
     isHome: true
     url: /
   - id: o0zl7eq88
-    name: New Page
-    url: /new-page
+    name: Features
+    url: /features
     isHome: false
