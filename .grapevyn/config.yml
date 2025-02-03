@@ -11,7 +11,3 @@ pages:
     path: /
     isHome: true
     url: /
-  - id: tatjxsasc
-    name: Contact
-    url: /contact
-    isHome: false
