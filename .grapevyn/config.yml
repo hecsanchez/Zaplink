@@ -11,7 +11,7 @@ pages:
     path: /
     isHome: true
     url: /
-  - id: wzfskyc5t
-    name: Features
-    url: /features
+  - id: o0zl7eq88
+    name: New Page
+    url: /new-page
     isHome: false
