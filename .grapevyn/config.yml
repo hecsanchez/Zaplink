@@ -1,12 +1,13 @@
-
 name: Zaplink
 version: 1.0.0
 meta:
   createdAt: 2025-02-03T21:46:00.466Z
   updatedAt: 2025-02-03T21:46:00.468Z
-  author: ""
-  description: ""
+  author: ''
+  description: ''
 pages:
   - id: home
     name: Home
     path: /
+    isHome: true
+    url: /
